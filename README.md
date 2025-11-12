@@ -56,6 +56,12 @@ Feito com propósito de aprendizado e portfólio.
 
 ---
 
+### Atualização
+- Código reorganizado usando **Programação Orientada a Objetos (POO)** com classes `Usuario` e `Estoque`.
+- Melhor modularização e legibilidade do projeto.
+
+---
+
 ## 📜 Licença
 
 Este projeto está sob a licença **MIT** — sinta-se livre para usar e modificar.
