@@ -7,7 +7,7 @@ O sistema roda direto no terminal e permite cadastrar itens, consultar o estoque
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seuusuario/cadastro-de-itens.git
+   git clone https://github.com/biel2403/Cadastro-de-Itens
    cd cadastro-de-itens
    ```
 
