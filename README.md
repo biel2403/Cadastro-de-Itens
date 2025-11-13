@@ -28,7 +28,6 @@ O sistema roda direto no terminal e permite cadastrar itens, consultar o estoque
 
 - Cadastro de produtos  
 - Consulta de estoque  
-- Controle de entradas e saídas  
 - Sistema simples de login (usuário fixo: `joao`, senha: `1234`)
 
 ---
