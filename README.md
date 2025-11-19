@@ -37,6 +37,7 @@ O sistema roda direto no terminal e permite cadastrar itens, consultar o estoque
 ```
 src/
  └── app.py        # Código principal do sistema
+ └── classes.py
 ```
 
 ---
